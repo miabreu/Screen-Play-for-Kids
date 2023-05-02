@@ -1,0 +1,12 @@
+
+/* @font-face */
+
+@font-face{
+    font-family: "Open Sans";
+    src: '../fonts/Open_Sans/OpenSans-Regular.ttf';
+}
+
+@font-face {
+    font-family: 'Comfortaa';
+    src: '../fonts/Comfortaa/static/Comfortaa-Bold.ttf';
+}
